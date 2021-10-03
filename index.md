@@ -18,3 +18,6 @@ Primary DNS: 104.238.130.180
 Secondary DNS: 8.8.8.8
 ```
 After changing your DNS server connect to any server under the server tab and then connect to one of the addresses under the PC, iOS, or Android section.
+
+## Discord Invite Link
+https://discord.gg/NQ4ctJKBzh
